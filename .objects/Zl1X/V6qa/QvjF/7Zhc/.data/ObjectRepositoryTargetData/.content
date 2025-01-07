@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Qyo5n6P5hkW19PIH7KK9lQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="supplier-website-tau.vercel.app" CVScreenId="e7367ef2-baee-4d26-9b44-0b19708d6138" CvElementArea="291, 81, 2423, 53" CvType="InputBox" DesignTimeRectangle="278, 84, 2427, 47" DesignTimeScaleFactor="2.5" ElementType="InputBox" FullSelectorArgument="&lt;wnd ctrlid='41477' /&gt;&lt;wnd ctrlid='41477' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='41477' /&gt;&lt;wnd ctrlid='41477' /&gt;" Guid="e69bbc8d-b789-45be-b009-24d3f842986f" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="13ab562228686ce297f51de62a6d603e.png" xmlns="">0FHLSfgofhE2xbJsMlGg-vA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

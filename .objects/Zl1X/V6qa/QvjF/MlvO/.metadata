@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Previous Locations",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "MlvOKuTU7UqXe8OhvsZ10w",
+  "Reference": "tS8G-J6Nz0GZ65E454Qmnw/MlvOKuTU7UqXe8OhvsZ10w",
+  "ParentRef": "tS8G-J6Nz0GZ65E454Qmnw/QvjFYUcRIkGXxmoSxgaAUQ",
+  "Created": "2025-01-06T19:28:59.7080764Z",
+  "Updated": "2025-01-06T19:28:59.7080764Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

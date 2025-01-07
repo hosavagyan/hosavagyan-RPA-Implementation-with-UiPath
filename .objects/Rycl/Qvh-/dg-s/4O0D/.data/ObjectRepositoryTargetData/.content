@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hsf_1P5J-062-vEyOBRnXA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dhl.de/de/privatkunden.html" DesignTimeRectangle="2255, 1651, 120, 120" DesignTimeScaleFactor="2.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-label='Suche starten' parentid='stage-quickaccess-item_searchfield-1' tag='BUTTON' type='submit' class='btn btn--primary btn--medium btn--icon btn--only-icon stage-quickaccess-item__searchfield-submit' aaname='   &amp;#x9;&amp;#x9; &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;Suche starten &amp;#x9;&amp;#x9;&amp;#x9; &amp;#x9;&amp;#x9; &amp;#x9;' check:text='Suche starten' /&gt;" Guid="18226735-01e1-4130-b3a5-2eb7e10be563" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DHL Privatkunden - Paketversand und Paketempfang mit DHL' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="64fcc128ed3048be73a2fa11a65373ec.png" xmlns="">0wfr4tElEL0uP3fG7OB5MFA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

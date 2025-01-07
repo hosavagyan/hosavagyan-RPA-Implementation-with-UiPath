@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="711bFsP6hEK8kguDet6PBA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="supplier-website-tau.vercel.app" CVScreenId="daddfa1f-43d1-449e-88e8-136409f72bc9" CvElementArea="2767, 1795, 223, 69" CvTextArea="2844, 1817, 67, 27" CvTextArgument="Save" CvType="Button" DesignTimeRectangle="2771, 1799, 220, 65" DesignTimeScaleFactor="2.5" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Save' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Save' check:text='&amp;amp;Save' /&gt;" Guid="cae2ec80-2840-43dc-9b81-cb32d2455e9e" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1070f22e76421d87c6c1efbc92c83510.png" xmlns="">06bYtxwUJ1UekaXrjcfSsBA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

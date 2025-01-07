@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iGfgSm3zFUmISv9WlE9h2Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="supplier-website-tau.vercel.app" CVScreenId="810e16aa-6936-4724-93d5-04d694b37d64" CvElementArea="1756, 1559, 341, 133" CvTextArea="1790, 1605, 270, 37" CvTextArgument="Download data" CvType="Button" DesignTimeRectangle="1759, 1562, 337, 130" DesignTimeScaleFactor="2.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='download' tag='BUTTON' type='' class='hover:bg-blue-700 border-2 border-blue-700 text-blue-700 hover:text-white p-3 mt-8' aaname='Download data' check:innerText='Download data' /&gt;" Guid="98ce8ca7-566b-42fe-8dfc-b6fa9ca3684d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='MyLab' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="753e773db545131310d18b858650a1b4.png" xmlns="">0yjilJhE7fUSWEcQtgYCCXw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

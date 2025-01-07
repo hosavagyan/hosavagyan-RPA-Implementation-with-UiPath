@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome MyLab",
+  "Type": "App",
+  "Id": "Zl1XD_ak1U2GOyqO7-ynIA",
+  "Reference": "tS8G-J6Nz0GZ65E454Qmnw/Zl1XD_ak1U2GOyqO7-ynIA",
+  "Created": "2025-01-06T18:27:30.4863267Z",
+  "Updated": "2025-01-06T18:27:30.4863267Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

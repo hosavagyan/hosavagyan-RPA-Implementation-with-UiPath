@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="W3eUmUpFDE6osdrhOgQo6w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="supplier-website-tau.vercel.app" CVScreenId="dcde63c1-cf18-4319-937c-5684efc4dba1" CvTextArea="57, 102, 163, 30" CvTextArgument="Edit address" CvType="Text" DesignTimeRectangle="3, 95, 417, 46" DesignTimeScaleFactor="2.5" FullSelectorArgument="&lt;ctrl name='Context' role='popup menu' /&gt;&lt;ctrl automationid='1280' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Context' role='popup menu' /&gt;&lt;ctrl automationid='1280' role='menu item' check:text='Edit address' /&gt;" Guid="45a02697-49e3-497d-a548-f343ce247467" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32768' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="579b620dcb461d48084ef528cad5b996.png" xmlns="">0cnk5ko45RE2J0fNkp5vjng</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

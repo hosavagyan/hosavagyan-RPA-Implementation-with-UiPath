@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="4z7OGChSGUyD4WSZKj9ayw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-16, -16, 3872, 2092" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAJOgAACToAYJjBRwAAAC2SURBVDhPY/h/huE/JXjUAGoa8G0J8/8XSZxg/DKV8//3lcz/P/Wz/n+dz/H/y2yW/y/TOf9/msAKlvt7hBFhwJ99jP9B+MtMlv+3FPn/v8rk+H9bje//6wII/cCO5/9dXT6wAXe0+P6/yuD4/+cA4/+/ByH6GN7VsP9/18D+/1UOx/9H7txg/L6R7f+LFM7/b4o4/r8p4fj/Ipnz/4c2Nrj86zyO/+/qgfrq2EejEYiHvAEM/wF+YLjeaCw1ZQAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='DHL Privatkunden - Paketversand und Paketempfang mit DHL' /&gt;" Title="DHL Privatkunden - Paketversand und Paketempfang mit DHL" Url="https://www.dhl.de/de/privatkunden.html" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="1bf8a19398911ede3ec03fdab7589a17.jpg" xmlns="">0Pwqsyt5O-km1D5WROBCOMA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

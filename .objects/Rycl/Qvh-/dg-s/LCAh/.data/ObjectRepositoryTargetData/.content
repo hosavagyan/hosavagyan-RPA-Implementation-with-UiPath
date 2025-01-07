@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="I71ou-YYQEKtPe2ryBymGA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dhl.de/de/privatkunden.html" CVScreenId="3f4f1954-9353-44ff-bb96-56c67224ea61" CvTextArea="1512, 1562, 498, 42" CvTextArgument="Sendungsnummer eingeben" CvType="Text" DesignTimeRectangle="1475, 1651, 900, 120" DesignTimeScaleFactor="2.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='Sendung verfolgen' tag='INPUT' type='search' class='stage-quickaccess-item__searchfield-input' placeholder='Sendungsnummer eingeben' aaname='' /&gt;" Guid="5c991a9f-fa4e-4ba5-89a2-9f8121a15df8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DHL Privatkunden - Paketversand und Paketempfang mit DHL' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5b90ffc0efc6697bcded9401ce9d4cad.png" xmlns="">0ys7XhDt7g0ygAcELGnp5Gw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

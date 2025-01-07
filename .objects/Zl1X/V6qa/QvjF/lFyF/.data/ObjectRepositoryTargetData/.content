@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uyqcJhxpYEubY66H3ehrSQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="supplier-website-tau.vercel.app" CVScreenId="3e62f9d3-3d1e-4a5b-8388-3c23123f2289" CvElementArea="1485, 1331, 612, 129" CvType="InputBox" DesignTimeRectangle="1492, 1337, 600, 120" DesignTimeScaleFactor="2.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='id' tag='INPUT' type='text' class='bg-white min-w-[240px] p-3' placeholder='Ex.: ORD-LAB-20250101-001' aaname='' /&gt;" Guid="6ba1ab87-2539-44ed-9657-3f4efb871b3e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='MyLab' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8f9d9beac5678e92ed3b100e7920e3dd.png" xmlns="">0kyxVyhb1VUy0JR3L_CZ_OA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

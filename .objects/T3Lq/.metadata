@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Open Lab website",
+  "Type": "App",
+  "Id": "T3Lq-WHmI0q4SEK0n1ylrg",
+  "Reference": "tS8G-J6Nz0GZ65E454Qmnw/T3Lq-WHmI0q4SEK0n1ylrg",
+  "Created": "2025-01-06T17:57:19.4115327Z",
+  "Updated": "2025-01-06T17:57:19.4115327Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

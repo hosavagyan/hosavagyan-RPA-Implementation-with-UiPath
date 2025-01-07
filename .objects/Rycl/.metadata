@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome DHL Privatkunden - Paketversand und Paketempfang mit DHL",
+  "Type": "App",
+  "Id": "RyclQIlCZUq7aYGrno1t8g",
+  "Reference": "tS8G-J6Nz0GZ65E454Qmnw/RyclQIlCZUq7aYGrno1t8g",
+  "Created": "2025-01-06T18:04:38.7700215Z",
+  "Updated": "2025-01-06T18:04:38.7700215Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

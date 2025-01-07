@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aDVTg5bIKUGRMw_0t4VlPw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="supplier-website-tau.vercel.app" CVScreenId="cb233f73-2e1c-4441-9426-6ea434db30f1" CvTextArea="40, 47, 1614, 35" CvTextArgument="C:\Users\Hovsep\Desktop\Hovsep\German\HU studies\Semester 2\Business Process Automation\Ub3\Positive_lab_results" CvType="Text" DesignTimeRectangle="1, 42, 2382, 41" DesignTimeScaleFactor="2.5" ElementType="ListItem" FullSelectorArgument="&lt;ctrl name='Address' role='list' /&gt;&lt;ctrl idx='2' name='C:\Users\Hovsep\Desktop\Hovsep\German\HU studies\Semester 2\Busi*' role='list item' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Address' role='list' /&gt;&lt;ctrl automationid='' name='C:\Users\Hovsep\Desktop\Hovsep\German\HU studies\Semester 2\Busi*' role='list item' check:text='C:\Users\Hovsep\Desktop\Hovsep\German\HU studies\Semester 2\Business Process Automation\Ub3\Positive_lab_results' /&gt;" Guid="ec8cd283-1993-4fb4-95ad-874f32a661b3" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='ComboLBox' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0fdf01038b317364eb7f68d7c2944594.png" xmlns="">0ZqXb5cbmFkW7gb5uAlwTJA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

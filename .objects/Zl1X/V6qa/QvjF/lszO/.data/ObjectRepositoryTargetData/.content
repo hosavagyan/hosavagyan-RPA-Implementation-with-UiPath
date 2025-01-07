@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hk1J6flhiUC9fH7OhfwP8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="supplier-website-tau.vercel.app" CVScreenId="d77f877b-60f4-44f1-b21a-9eafebb1d5d4" CvElementArea="291, 81, 2421, 53" CvType="InputBox" DesignTimeRectangle="2663, 85, 41, 45" DesignTimeScaleFactor="2.5" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='41477' /&gt;&lt;ctrl name='Address' role='combo box' /&gt;&lt;ctrl name='Address' role='push button' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='41477' /&gt;&lt;ctrl name='Address' role='combo box' /&gt;&lt;ctrl name='Address' role='push button' automationid='' check:text='C:\Users\Hovsep\Desktop\Hovsep\German\HU studies\Semester 2\Business Process Automation\Ub3' /&gt;" Guid="bcc00e74-bb9b-4048-a6b0-69fd7afd9a9a" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d77f877b-60f4-44f1-b21a-9eafebb1d5d4" CvElementArea="291, 81, 2421, 53" CvType="InputBox" DesignTimeRectangle="326, 87, 2333, 41" ElementType="InputBox" FullSelectorArgument="&lt;wnd ctrlid='41477' /&gt;&lt;wnd ctrlid='41477' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='41477' /&gt;&lt;wnd ctrlid='41477' /&gt;" Guid="297883ca-9b90-4314-8c99-5a059cc7f287" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="15c94b8b5e85600fb62e2ac23edd6abb.png" xmlns="">0iR8SzfvRBUaFJPxSG2qeDQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

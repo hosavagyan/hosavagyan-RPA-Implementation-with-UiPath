@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DyFVXXIyZkGuOZ_SYK9D9A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="supplier-website-tau.vercel.app" DesignTimeRectangle="278, 84, 2381, 56" DesignTimeScaleFactor="2.5" ElementType="Toolbar" FullSelectorArgument="&lt;wnd ctrlid='1001' title='Address: C:\Users\Hovsep\Desktop\Hovsep\German\HU studies\Semest*' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1001' title='Address: C:\Users\Hovsep\Desktop\Hovsep\German\HU studies\Semest*' check:text='Address: C:\Users\Hovsep\Desktop\Hovsep\German\HU studies\Semester 2\Business Process Automation\Ub3\Negative_lab_results' /&gt;" Guid="d099e779-f753-43db-ad0d-dc7ef8613634" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8922160868b2e49d2120246e69451a57.png" xmlns="">0vJOTSyLwf0ybJdCeltIEBw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

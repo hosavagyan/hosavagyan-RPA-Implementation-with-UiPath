@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vKw7hBBmzUCFJAdHspEKlQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="supplier-website-tau.vercel.app" CVScreenId="a0fb5996-f4e4-4941-aa94-872befc929af" CvTextArea="1942, 1285, 170, 47" CvType="AnyWordGroup" DesignTimeRectangle="1946, 1277, 167, 60" DesignTimeScaleFactor="2.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='result' tag='DIV' type='' class='font-semibold' /&gt;" Guid="bcea33a4-1707-4eaf-8ba4-eb0c5fd02e46" ScopeSelectorArgument="&lt;html app='chrome.exe' title='MyLab' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a0fb5996-f4e4-4941-aa94-872befc929af" CvTextArea="1755, 1287, 127, 35" CvTextArgument="Result:" CvType="Text" DesignTimeRectangle="1759, 1277, 167, 60" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Result:' tag='DIV' type='' class='' check:innerText='Result:' /&gt;" Guid="4fbeb3ed-1799-4203-af66-985dd01fbb22" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a19ceaceeb17ef4573da695dccdc28c2.png" xmlns="">0nu1sCKXmTEWEanofGKKxhA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

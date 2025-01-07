@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome MyLab",
+  "Type": "Screen",
+  "Id": "QvjFYUcRIkGXxmoSxgaAUQ",
+  "Reference": "tS8G-J6Nz0GZ65E454Qmnw/QvjFYUcRIkGXxmoSxgaAUQ",
+  "ParentRef": "tS8G-J6Nz0GZ65E454Qmnw/V6qa9ciQKUWyuJi1LIq84g",
+  "Created": "2025-01-06T18:27:30.5331935Z",
+  "Updated": "2025-01-06T18:27:30.5331935Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="c9Fh2VqLl0u8QC4C5Q5AQw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="supplier-website-tau.vercel.app" CVScreenId="1fd5c3d3-eb79-4901-bbfa-15a6b01e53e2" CvElementArea="275, 80, 2447, 61" CvType="InputBox" DesignTimeRectangle="2659, 84, 46, 56" DesignTimeScaleFactor="2.5" ElementType="Button" FullSelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Address band toolbar' /&gt;&lt;ctrl name='Address band toolbar' role='tool bar' /&gt;&lt;ctrl name='Previous Locations' role='push button' /&gt;" FuzzySelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Address band toolbar' /&gt;&lt;ctrl name='Address band toolbar' role='tool bar' /&gt;&lt;ctrl name='Previous Locations' role='push button' automationid='' check:text='Previous Locations' /&gt;" Guid="4e78639c-5e69-4ed8-9d76-accc63d80ed6" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1fd5c3d3-eb79-4901-bbfa-15a6b01e53e2" CvElementArea="275, 80, 2447, 61" CvType="InputBox" DesignTimeRectangle="363, 84, 146, 55" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='1001' title='Address: C:\Users\Hovsep\Desktop\Hovsep\German\HU studies\Semest*' /&gt;&lt;ctrl name='Address: C:\Users\Hovsep\Desktop\Hovsep\German\HU studies\Semest*' role='tool bar' /&gt;&lt;ctrl name='This PC' role='split button' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1001' title='Address: C:\Users\Hovsep\Desktop\Hovsep\German\HU studies\Semest*' /&gt;&lt;ctrl name='Address: C:\Users\Hovsep\Desktop\Hovsep\German\HU studies\Semest*' role='tool bar' /&gt;&lt;ctrl name='This PC' role='split button' automationid='' check:text='This PC' /&gt;" Guid="3e4d9da2-0843-4644-907a-b467bd55b789" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="13be9c3f61c0c3f147895cfc90bddba0.png" xmlns="">0dizyp6LBwUe7Ce1etxqh3Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

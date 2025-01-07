@@ -8,6 +8,6 @@ To successfully execute the process, multiple steps are required.
 4. RUN the main that opens automatically
 
 This execution was tested on Windows 10 using the local version of UIPath a Chrome extension.
-Note: Because of some differences in local machines it is possible that google or file explorer window segments specified in the project may not be found in your local machine.
+Note: Because of some differences in local machines it is possible that Google Chrome File Explorer window segments specified in the project may not be found in your local machine.
 
 Additionally, a screen recording of the process execution can be found in the execution-video directory.
